@@ -10,4 +10,8 @@
 
 ## Как запустить
 ```bash
+<<<<<<< HEAD
 python bank_app.py
+=======
+python bank_app.py
+>>>>>>> 7212e1266635206b981c1c86d0323ffa0f54cdd1
